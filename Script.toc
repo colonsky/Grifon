@@ -1,3 +1,3 @@
 ## Interface: 80300
-## Title: Script
+## Title: Grifon
 core.lua
